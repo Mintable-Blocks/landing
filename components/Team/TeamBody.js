@@ -8,8 +8,8 @@ export const TeamBody = () => {
         <TeamCard
           name="Adithya Menon S"
           role="Co-founder"
-          twitter="https://twitter.com/hackyguru"
-          linkedin="https://linkedin.com/kumaraguru7"
+          twitter="https://twitter.com/adithyamenons17"
+          linkedin="https://www.linkedin.com/in/adithyamenons"
           image="assets/adithya.png"
           email="mailto:adithya@mintableblocks.com"
         />
@@ -17,7 +17,7 @@ export const TeamBody = () => {
           name="Kumaraguru T"
           role="Co-founder"
           twitter="https://twitter.com/hackyguru"
-          linkedin="https://linkedin.com/kumaraguru7"
+          linkedin="https://linkedin.com/in/kumaraguru7"
           image="assets/guru.png"
           email="mailto:guru@mintableblocks.com"
         />

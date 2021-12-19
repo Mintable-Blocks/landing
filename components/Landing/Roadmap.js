@@ -57,7 +57,7 @@ export default function Roadmap() {
                       - Recruiting for various positions including design,
                       engineering and outreach.
                     </li>
-                    <li>- Sponosoring events.</li>
+                    <li>- Sponsoring events.</li>
                   </ul>
                 </p>
               </details>

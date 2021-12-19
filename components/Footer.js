@@ -12,7 +12,8 @@ export default function Footer() {
 
           <div class="flex justify-center mt-8 space-x-6">
             <a
-              href=""
+              href="https://twitter.com/MintableBlocks
+              "
               target="_blank"
               rel="noreferrer"
               aria-label="Twitter"
@@ -29,7 +30,7 @@ export default function Footer() {
             </a>
 
             <a
-              href=""
+              href="https://github.com/organizations/MintableBlocks"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
@@ -50,7 +51,7 @@ export default function Footer() {
             </a>
 
             <a
-              href=""
+              href="https://www.linkedin.com/company/mintableblocks"
               target="_blank"
               rel="noreferrer"
               aria-label="Dribbble"
@@ -68,7 +69,7 @@ export default function Footer() {
             </a>
 
             <a
-              href=""
+              href="https://discord.gg/AWyKmyBpYz"
               target="_blank"
               rel="noreferrer"
               aria-label="Dribbble"

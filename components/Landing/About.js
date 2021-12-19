@@ -15,10 +15,11 @@ export const About = () => {
             </p>
 
             <p class=" lg:mt-4 mt-5 text-sm lg:text-lg text-secondary">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et,
-              egestas tempus tellus etiam sed. Quam a scelerisque amet
-              ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat
-              quisque ut interdum tincidunt duis.
+              We are the industry's first swag providers that offer scalable
+              digi physical NFTs to your recepients. Digi physical NFTs can
+              denote the proof of attendence in an event or contribution to a
+              community. Recepients can redeem physical swag from the digi
+              physical NFTs.
             </p>
           </div>
         </div>

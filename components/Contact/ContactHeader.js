@@ -34,7 +34,7 @@ export const ContactHeader = () => {
           </h5>
           <p
             style={{ fontFamily: "Montserrat" }}
-            class="mt-4 text-xl font-medium text-gray-500"
+            class="mt-4 sm:text-sm lg:text-xl font-medium text-gray-500"
           >
             contact@mintableblocks.com
           </p>
@@ -65,12 +65,12 @@ export const ContactHeader = () => {
           </h5>
           <p
             style={{ fontFamily: "Montserrat" }}
-            class="mt-4 text-xl font-medium text-gray-500"
+            class="mt-4 sm:text-sm lg:text-xl font-medium text-gray-500"
           >
             Feel free to schedule calls if you have any queries regarding
             funding/ collaboration opportunities.
           </p>
-
+          <br />
           <span class="absolute bottom-8 right-8">
             <a
               href="https://calendly.com/hackyguru/15min"

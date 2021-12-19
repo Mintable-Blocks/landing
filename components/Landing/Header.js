@@ -22,11 +22,11 @@ export const Header = () => {
             style={{ fontFamily: "Montserrat" }}
             class="text-sm lg:text-2xl mt-8 font-medium text-gray-500"
           >
-            The world is going decentralized and non-fungible,{" "}
-            <br className="hidden lg:block" />
-            Why not gifts, fashion and swag?
+            The world's first platform to gift{" "}
+            <br className="sm:block mt-3 lg:hidden" />
+            digi-physical swags as NFTs.
           </p>
-          <div class="mt-12 sm:items-center sm:justify-center sm:flex">
+          <div class="mt-12  sm:items-center sm:justify-center sm:flex">
             <a
               style={{ fontFamily: "Montserrat" }}
               href=""

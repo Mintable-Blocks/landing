@@ -49,12 +49,16 @@ export default function Roadmap() {
                   style={{ fontStyle: "Montserrat" }}
                   class="mt-6 text-lg text-secondary"
                 >
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                  ipsa impedit rerum adipisci nihil, ab id dolor animi quia
-                  nesciunt. Sequi nulla voluptas delectus aspernatur quidem
-                  ullam, placeat maxime, nesciunt expedita est minima beatae.
-                  Qui nostrum nemo sed. Aliquid, est facilis fuga ipsa
-                  asperiores amet nihil harum impedit modi dolor.
+                  <ul>
+                    <li>- Launching beta version of the product.</li>
+                    <li>- Partnering with potential swag manufacturers.</li>
+                    <li>- Setting up logistics team.</li>
+                    <li>
+                      - Recruiting for various positions including design,
+                      engineering and outreach.
+                    </li>
+                    <li>- Sponosoring events.</li>
+                  </ul>
                 </p>
               </details>
             </li>
@@ -96,12 +100,13 @@ export default function Roadmap() {
                   style={{ fontStyle: "Montserrat" }}
                   class="mt-6 text-lg text-secondary"
                 >
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                  ipsa impedit rerum adipisci nihil, ab id dolor animi quia
-                  nesciunt. Sequi nulla voluptas delectus aspernatur quidem
-                  ullam, placeat maxime, nesciunt expedita est minima beatae.
-                  Qui nostrum nemo sed. Aliquid, est facilis fuga ipsa
-                  asperiores amet nihil harum impedit modi dolor.
+                  <ul>
+                    <li>- Improving logistics team.</li>
+                    <li>
+                      - Launching governance token and working on tokenomics.
+                    </li>
+                    <li>- Launching final version of the product.</li>
+                  </ul>
                 </p>
               </details>
             </li>
@@ -140,12 +145,11 @@ export default function Roadmap() {
                   style={{ fontStyle: "Montserrat" }}
                   class="mt-6 text-lg text-secondary"
                 >
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                  ipsa impedit rerum adipisci nihil, ab id dolor animi quia
-                  nesciunt. Sequi nulla voluptas delectus aspernatur quidem
-                  ullam, placeat maxime, nesciunt expedita est minima beatae.
-                  Qui nostrum nemo sed. Aliquid, est facilis fuga ipsa
-                  asperiores amet nihil harum impedit modi dolor.
+                  <ul>
+                    <li>
+                      - Launching governance token and working on tokenomics.
+                    </li>
+                  </ul>
                 </p>
               </details>
             </li>
@@ -184,12 +188,9 @@ export default function Roadmap() {
                   style={{ fontStyle: "Montserrat" }}
                   class="mt-6 text-lg text-secondary"
                 >
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                  ipsa impedit rerum adipisci nihil, ab id dolor animi quia
-                  nesciunt. Sequi nulla voluptas delectus aspernatur quidem
-                  ullam, placeat maxime, nesciunt expedita est minima beatae.
-                  Qui nostrum nemo sed. Aliquid, est facilis fuga ipsa
-                  asperiores amet nihil harum impedit modi dolor.
+                  <ul>
+                    <li>- Expanding our global hubs to USA and Middle East.</li>{" "}
+                  </ul>
                 </p>
               </details>
             </li>

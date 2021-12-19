@@ -14,7 +14,7 @@ export default function Careers() {
       <Navbar />
       <div className="bg-bg min-h-screen">
         <Head>
-          <title>Mintable Blocks</title>
+          <title>Careers</title>
 
           <link rel="icon" href="/favicon.ico" />
         </Head>

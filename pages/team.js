@@ -15,8 +15,7 @@ export default function Team() {
       <Navbar />
       <div className="bg-bg mb-20 min-h-screen">
         <Head>
-          <title>Mintable Blocks</title>
-
+          <title>Team</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <TeamHeader />

@@ -10,8 +10,8 @@ export const Navbar = () => {
         <div class="relative flex items-center justify-between">
           <a
             href="/"
-            aria-label="Company"
-            title="Company"
+            aria-label="Mintable Blocks"
+            title="Mintable Blocks"
             class="inline-flex items-center"
           >
             <img className="h-14" src="assets/m2.svg" />
@@ -20,8 +20,8 @@ export const Navbar = () => {
             <li>
               <a
                 href="/#roadmap"
-                aria-label="Our product"
-                title="Our product"
+                aria-label="Roadmap"
+                title="Roadmap"
                 style={{ fontFamily: "Montserrat" }}
                 class="font-medium tracking-wide text-secondary transition-colors duration-200 hover:text-teal-accent-400"
               >
@@ -31,8 +31,8 @@ export const Navbar = () => {
             <li>
               <a
                 href="/#supporters"
-                aria-label="Our product"
-                title="Our product"
+                aria-label="Supporters"
+                title="Supporters"
                 style={{ fontFamily: "Montserrat" }}
                 class="font-medium tracking-wide text-secondary  transition-colors duration-200 hover:text-teal-accent-400"
               >
@@ -42,8 +42,8 @@ export const Navbar = () => {
             <li>
               <a
                 href="/team"
-                aria-label="Product pricing"
-                title="Product pricing"
+                aria-label="Our team"
+                title="Our team"
                 style={{ fontFamily: "Montserrat" }}
                 class="font-medium tracking-wide text-secondary  transition-colors duration-200 hover:text-teal-accent-400"
               >
@@ -104,8 +104,8 @@ export const Navbar = () => {
                     <div>
                       <a
                         href="/"
-                        aria-label="Company"
-                        title="Company"
+                        aria-label="Mintable Blocks"
+                        title="Mintable Blocks"
                         class="inline-flex items-center"
                       >
                         <img className="h-9 mr-2" src="assets/m2.svg" />
@@ -135,42 +135,52 @@ export const Navbar = () => {
                     <ul class="space-y-4 mt-7">
                       <li>
                         <a
-                          href="/"
-                          aria-label="Our product"
-                          title="Our product"
+                          href="/#roadmap"
+                          aria-label="Roadmap"
+                          title="Roadmap"
                           class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                         >
-                          Product
+                          Roadmap
                         </a>
                       </li>
                       <li>
                         <a
-                          href="/"
-                          aria-label="Our product"
-                          title="Our product"
+                          href="/#supporters"
+                          aria-label="Supporters"
+                          title="Supporters"
                           class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                         >
-                          Features
+                          Supporters
                         </a>
                       </li>
                       <li>
                         <a
-                          href="/"
-                          aria-label="Product pricing"
-                          title="Product pricing"
+                          href="/team"
+                          aria-label="Our Team"
+                          title="Our Team"
                           class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                         >
-                          Pricing
+                          Our Team
                         </a>
                       </li>
                       <li>
                         <a
-                          href="/"
-                          aria-label="About us"
-                          title="About us"
+                          href="/careers"
+                          aria-label="Careers"
+                          title="Careers"
                           class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                         >
-                          About us
+                          Careers
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="/contact"
+                          aria-label="Contact us"
+                          title="Contact us"
+                          class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+                        >
+                          Contact us
                         </a>
                       </li>
                     </ul>

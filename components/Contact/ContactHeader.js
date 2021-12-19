@@ -38,6 +38,9 @@ export const ContactHeader = () => {
           >
             contact@mintableblocks.com
           </p>
+          <br class="lg:hidden sm:block" />
+          <br class="lg:hidden sm:block" />
+          <br class="lg:hidden sm:block" />
 
           <span class="absolute bottom-8 right-8">
             <svg
@@ -70,7 +73,10 @@ export const ContactHeader = () => {
             Feel free to schedule calls if you have any queries regarding
             funding/ collaboration opportunities.
           </p>
-          <br />
+          <br class="lg:hidden sm:block" />
+          <br class="lg:hidden sm:block" />
+          <br class="lg:hidden sm:block" />
+
           <span class="absolute bottom-8 right-8">
             <a
               href="https://calendly.com/hackyguru/15min"

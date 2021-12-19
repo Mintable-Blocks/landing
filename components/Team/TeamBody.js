@@ -21,6 +21,14 @@ export const TeamBody = () => {
           image="assets/guru.png"
           email="mailto:guru@mintableblocks.com"
         />
+        <TeamCard
+          name="Elmer Moore"
+          role="Business advisor"
+          twitter="https://twitter.com/MintableBlocks"
+          linkedin="https://linkedin.com/company/MintableBlocks"
+          image="assets/elmer.png"
+          email="mailto:elmer@mintableblocks.com"
+        />
       </div>
     </div>
   );

@@ -11,6 +11,7 @@ export const TeamBody = () => {
           twitter="https://twitter.com/hackyguru"
           linkedin="https://linkedin.com/kumaraguru7"
           image="assets/adithya.png"
+          email="mailto:adithya@mintableblocks.com"
         />
         <TeamCard
           name="Kumaraguru T"
@@ -18,6 +19,7 @@ export const TeamBody = () => {
           twitter="https://twitter.com/hackyguru"
           linkedin="https://linkedin.com/kumaraguru7"
           image="assets/guru.png"
+          email="mailto:guru@mintableblocks.com"
         />
       </div>
     </div>

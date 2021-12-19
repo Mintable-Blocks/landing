@@ -23,10 +23,10 @@ export const CareersHeader = () => {
             style={{ fontFamily: "Montserrat" }}
             class="text-lg mt-8 font-medium text-gray-500"
           >
-            Join our amazing team
+            Coming soon.
           </p>
         </div>
-        <CareersCard title="Designer" description="This is a description" />
+        {/* <CareersCard title="Designer" description="This is a description" /> */}
       </aside>
     </div>
   );

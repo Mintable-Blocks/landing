@@ -29,10 +29,10 @@ export const Header = () => {
           <div class="mt-12  sm:items-center sm:justify-center sm:flex">
             <a
               style={{ fontFamily: "Montserrat" }}
-              href=""
+              href="docs/LitePaper.pdf"
               class="block text-xl px-5 py-3 shadow-2xl font-medium text-white bg-black"
             >
-              View Whitepaper
+              View Litepaper
             </a>
           </div>
         </div>

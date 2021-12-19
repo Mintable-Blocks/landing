@@ -10,7 +10,7 @@ import { TeamHeader } from "../components/Team/TeamHeader";
 
 export default function Team() {
   return (
-    <div className="bg-bg">
+    <div className="">
       <GradientLine />
       <Navbar />
       <div className="bg-bg mb-20 min-h-screen">
